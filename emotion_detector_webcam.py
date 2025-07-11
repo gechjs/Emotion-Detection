@@ -1,4 +1,3 @@
-<paste commit 2 code here>
 import os
 import cv2
 import numpy as np
